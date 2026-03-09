@@ -55,10 +55,10 @@ def train_model(model, train_loader, criterion, optimizer, epochs=20):
 ### OUTPUT
 
 ## Training Loss Over Epochs Plot
-<img width="1389" height="665" alt="image" src="https://github.com/user-attachments/assets/994932c8-941f-4ef0-99d2-88feb4ce5e4a" />
+<img width="1355" height="561" alt="image" src="https://github.com/user-attachments/assets/e8d19823-3098-462c-aa36-fb6b44616145" />
 
 ## True Stock Price, Predicted Stock Price vs time
-<img width="1355" height="561" alt="image" src="https://github.com/user-attachments/assets/e8d19823-3098-462c-aa36-fb6b44616145" />
+<img width="1389" height="665" alt="image" src="https://github.com/user-attachments/assets/994932c8-941f-4ef0-99d2-88feb4ce5e4a" />
 
 ### Predictions
 <img width="1362" height="60" alt="image" src="https://github.com/user-attachments/assets/ca4e16b2-16b0-40c7-b22b-12d8dc670e39" />
